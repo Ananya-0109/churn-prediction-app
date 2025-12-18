@@ -3,7 +3,7 @@
 A machine learning web application that predicts whether a customer is likely to churn based on their activity and spending behavior.
 
 ## 🚀 Live App
-🔗 https://churn-app.streamlit.app
+🔗[ https://churn-app.streamlit.app](https://churn-prediction-app-fvbbxrrauwwj6ufizek5hz.streamlit.app/)
 
 ## 🧠 Model Details
 - Algorithm: XGBoost Classifier
