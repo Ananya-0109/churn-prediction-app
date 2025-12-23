@@ -30,4 +30,4 @@ churn-app/
 
 
 CHURN APP PICTURES
-<img width="788" height="796" alt="image" src="https://github.com/user-attachments/assets/f624d37e-3eb8-44cc-8236-7d6a6aaf9c4a" />
+<img width="1111" height="869" alt="image" src="https://github.com/user-attachments/assets/4e9b7169-8f58-44c2-830e-fc6afcc2160f" />
